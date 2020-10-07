@@ -1,0 +1,11 @@
+Installation Guide:
+1. buat database dengan nama 'paketsantri2' pada phpmyadmin
+2. import database paketsantri2.sql ke phpmyadmin
+3. open project paket_santri
+4. jalankan command 'php spark serve --port 8081'
+5. akses http://localhost:8081/ pada browser
+
+Fitur fungsional:
+1. CRUD Santri
+2. CRUD Asrama
+3. CRUD Kategori paket
